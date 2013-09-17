@@ -65,4 +65,4 @@ public class EmployeeTest{
 			System.out.println("The yearly salary of "+  employee2.getfirstName()+  " "+ 
 					   employee2.getlastName()+  " with a 10 percent raise, is: "+  employee2NewSalary  );	
 	}
-}
+} //Good
